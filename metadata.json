@@ -1,0 +1,8 @@
+{
+  "name": "TerraNav",
+  "description": "Offline expedition maps, turn-by-turn wilderness navigation, GPX tracking, topographical overlays, and emergency SOS signaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
